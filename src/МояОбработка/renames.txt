@@ -1,0 +1,9 @@
+﻿2bd116a2-258c-4f0b-a951-76831be57064-->und\2bd116a2-258c-4f0b-a951-76831be57064
+2bd116a2-258c-4f0b-a951-76831be57064.0-->Form\Форма\Форма.txt
+2bd116a2-258c-4f0b-a951-76831be57064.0-->und\2bd116a2-258c-4f0b-a951-76831be57064.0
+2bd116a2-258c-4f0b-a951-76831be57064.0-->und\2bd116a2-258c-4f0b-a951-76831be57064.0
+563ae530-02cf-48cd-969f-24d0693365d7-->und\563ae530-02cf-48cd-969f-24d0693365d7
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
